@@ -34,3 +34,6 @@ Nossa plataforma **PagBuz ITSM+AI** oferece:
 4. **Resolução** → Integração com Knowledge Base ou Agente Humano  
 
 ---
+
+# **BackLog**
+Tenha acesso ao **backlog** no link: https://github.com/pim-ads-3/Pim/blob/main/Backlog.md
