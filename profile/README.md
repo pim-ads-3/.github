@@ -1,30 +1,43 @@
-# **PagBuz - Bilhetagem Eletrônica Inteligente para Transporte Público**  
-
-![bannerPagBuzz](https://github.com/user-attachments/assets/fbca752d-e9cf-4d97-a33a-851d215da2bf)
-
-*Soluções integradas para mobilidade urbana e suporte técnico com IA*  
+# **PagBuzz - Revolucionando a Mobilidade Urbana com Tecnologia Inteligente**  
+![bannerPagBuzz](https://github.com/user-attachments/assets/ed577229-bc25-4495-9750-2039e7b1047e)
+*Soluções integradas de bilhetagem eletrônica e suporte técnico com IA para transporte público*  
 
 ---
 
-## **Visão Geral**  
-A **PagBuz** é líder em sistemas de bilhetagem eletrônica para transporte público, combinando:  
-- **Validação de passes** (cartão físico, passe e NFC).  
-- **Gestão de créditos** em tempo real.  
-- **Sistema de suporte técnico com IA** exclusivo para clientes licenciados.  
+## **📌 Sobre a PagBuzz**  
+Fundada em 2020, a **PagBuzz** é uma *deep tech* especializada em **sistemas de pagamento e gestão para transporte público**. Nossa missão é **democratizar o acesso à mobilidade urbana** através de tecnologia confiável e inovação disruptiva.  
 
-**Diferenciais**:  
-✔ Integração com órgãos municipais e APIs de pagamento (cartões físicos e digitais).  
-✔ AI de autoatendimento para chamados técnicos (reduzindo 40% do tempo de resolução).  
+### **🔍 Dados Corporativos**  
+- **Setor**: Tecnologia para Transporte e Logística (GovTech/FinTech)  
+- **Clientes**: Prefeituras, consórcios de ônibus e operadoras privadas em 12 estados brasileiros  
+- **Faturamento**: R$ 50M/ano (2024)  
+- **Equipe**: 120 colaboradores (Engenharia, Dados e Customer Success)  
 
----
-
-## **Tecnologias**  
-| **Módulo**               | **Stack**                                                                 |  
-|--------------------------|---------------------------------------------------------------------------|  
-| **Validador de Passes**  | C++ (embedded), Android/iOS (Kotlin/Swift), NFC/QR Code                   |  
-| **Backend**              | Java (Spring Boot), PostgreSQL (transações em alta disponibilidade)       |  
-| **Painel de Gestão**     | React.js (TypeScript), Material-UI                                        |  
-| **IA de Suporte**        | GPT-4 (análise de logs), TensorFlow (detecção de anomalias)               |  
+### **🏆 Diferenciais Estratégicos**  
+| **Área**          | **Inovação PagBuzz**                                                                 |  
+|--------------------|-------------------------------------------------------------------------------------|  
+| **Bilhetagem**     | Único sistema do mercado com **validação offline** (funciona sem internet)          |  
+| **Segurança**      | Criptografia P2PE (Point-to-Point Encryption) e certificação PCI-DSS Nível 1        |  
+| **AI de Suporte**  | Assistente virtual **"Buz Helper"** (resolve 65% dos chamados sem intervenção humana)|  
 
 ---
 
+## **🛠️ Produtos e Soluções**  
+### **1. PagBuzz Valid**  
+- **O que faz**: Hardware/software para validação de passes em ônibus.  
+- **Tecnologia**:  
+  - Leitura multicanal (NFC, Cartão, Passe)  
+  - SDK para integração com apps de transporte (ex.: Google Pay)  
+
+### **2. PagBuzz SupportPro**  
+- **Exclusivo para clientes**: Sistema de chamados com:  
+  - **Triagem automática** por IA (análise de logs em tempo real)  
+  - **Painel de SLA**: Monitoramento de métricas como MTTR (*Mean Time to Repair*)  
+
+---
+
+## **🌐 Responsabilidade Social**  
+- **Programa "Transporte Justo"**: Parceria com governos para oferecer **tarifa zero** a idosos e PCDs.  
+- **Redução de fraudes**: Nosso sistema diminuiu em **92%** clonagem de cartões em clientes ativos.  
+
+---
