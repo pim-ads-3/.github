@@ -41,3 +41,18 @@ Fundada em 2020, a **PagBuzz** é uma *deep tech* especializada em **sistemas de
 - **Redução de fraudes**: Nosso sistema diminuiu em **92%** clonagem de cartões em clientes ativos.  
 
 ---
+
+##📞 Contato e Carreira
+-**Comercial**: vendas@pagbuz.com | +55 (11) 4002-8922
+
+-**Imprensa**: comunicacao@pagbuz.com
+
+-**Trabalhe conosco**: carreiras.pagbuz.com
+
+---
+
+## © 2024 PagBuz Solutions. Sob licença Apache 2.0.
+Consulte LICENSE para detalhes jurídicos.
+
+
+
