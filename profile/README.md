@@ -8,12 +8,12 @@
 
 ## **Visão Geral**  
 A **PagBuz** é líder em sistemas de bilhetagem eletrônica para transporte público, combinando:  
-- **Validação de passes** (cartão físico, QR Code e NFC).  
+- **Validação de passes** (cartão físico, passe e NFC).  
 - **Gestão de créditos** em tempo real.  
 - **Sistema de suporte técnico com IA** exclusivo para clientes licenciados.  
 
 **Diferenciais**:  
-✔ Integração com órgãos municipais e APIs de pagamento (PIX, cartões).  
+✔ Integração com órgãos municipais e APIs de pagamento (cartões físicos e digitais).  
 ✔ AI de autoatendimento para chamados técnicos (reduzindo 40% do tempo de resolução).  
 
 ---
@@ -28,13 +28,3 @@ A **PagBuz** é líder em sistemas de bilhetagem eletrônica para transporte pú
 
 ---
 
-## **Ambiente de Desenvolvimento**  
-### **Pré-requisitos**  
-- Docker 24+  
-- Java 17 ou Python 3.11+ (para módulos de IA)  
-
-### **Execução Local**  
-```bash  
-git clone https://github.com/pagbuz/bilhetagem-core.git  
-cd bilhetagem-core  
-docker-compose -f docker-compose.dev.yml up --build  
