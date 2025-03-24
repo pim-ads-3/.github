@@ -1,42 +1,40 @@
-# **PagBuz Solutions**  
-**Sistema Inteligente de Gestão de Suporte Técnico e Atendimento ao Cliente**  
+# **PagBuz - Bilhetagem Eletrônica Inteligente para Transporte Público**  
 
-![bannerPagBuzz](https://github.com/user-attachments/assets/a9f28d4d-b727-4db9-a102-d4155cf0579c)
+![bannerPagBuzz](https://github.com/user-attachments/assets/fbca752d-e9cf-4d97-a33a-851d215da2bf)
+
+*Soluções integradas para mobilidade urbana e suporte técnico com IA*  
+
+---
 
 ## **Visão Geral**  
-A **PagBuz Solutions** é uma empresa líder em software de gestão de suporte técnico, combinando automação avançada, inteligência artificial e integração multicanal para otimizar operações de helpdesk e customer success.  
+A **PagBuz** é líder em sistemas de bilhetagem eletrônica para transporte público, combinando:  
+- **Validação de passes** (cartão físico, QR Code e NFC).  
+- **Gestão de créditos** em tempo real.  
+- **Sistema de suporte técnico com IA** exclusivo para clientes licenciados.  
 
-Nossa plataforma **PagBuz ITSM+AI** oferece:  
-- **Triagem automática de chamados** via NLP (Processamento de Linguagem Natural).  
-- **Resolução assistida por IA** (Chatbots e Análise Preditiva).  
-- **Integração unificada** com CRM, ERPs e ferramentas de comunicação.  
-- **Relatórios dinâmicos** com PowerBI e Metabase.  
-
----
-
-## **Tecnologias e Arquitetura**  
-
-### **Stack Principal**  
-| **Área**       | **Tecnologias**                                  |  
-|----------------|--------------------------------------------------|  
-| **Backend**    | Python (FastAPI/Django), Java (Spring Boot)      |  
-| **Frontend**   | React.js (TypeScript), Next.js                   |  
-| **Banco de Dados** | PostgreSQL (OLTP), Elasticsearch (Busca)       |  
-| **IA/ML**      | OpenAI GPT-4, TensorFlow (Classificação de Tickets) |  
-| **Infra**      | AWS ECS, Kubernetes, Terraform (IaC)            |  
-
-### **Fluxo de Processamento**  
-1. **Entrada de Chamados** → API Gateway (REST/WebSocket)  
-2. **Classificação por IA** → Modelo customizado (BERT)  
-3. **Roteamento** → Service Mesh (Istio)  
-4. **Resolução** → Integração com Knowledge Base ou Agente Humano  
+**Diferenciais**:  
+✔ Integração com órgãos municipais e APIs de pagamento (PIX, cartões).  
+✔ AI de autoatendimento para chamados técnicos (reduzindo 40% do tempo de resolução).  
 
 ---
 
-# **BackLog**
-Tenha acesso ao **backlog** no link: https://github.com/pim-ads-3/Pim/blob/main/Backlog.md
+## **Tecnologias**  
+| **Módulo**               | **Stack**                                                                 |  
+|--------------------------|---------------------------------------------------------------------------|  
+| **Validador de Passes**  | C++ (embedded), Android/iOS (Kotlin/Swift), NFC/QR Code                   |  
+| **Backend**              | Java (Spring Boot), PostgreSQL (transações em alta disponibilidade)       |  
+| **Painel de Gestão**     | React.js (TypeScript), Material-UI                                        |  
+| **IA de Suporte**        | GPT-4 (análise de logs), TensorFlow (detecção de anomalias)               |  
 
 ---
 
-# **Sprint Backlog**
-Tenha acesso ao **sprint Backlog** no link: https://github.com/orgs/pim-ads-3/projects/3
+## **Ambiente de Desenvolvimento**  
+### **Pré-requisitos**  
+- Docker 24+  
+- Java 17 ou Python 3.11+ (para módulos de IA)  
+
+### **Execução Local**  
+```bash  
+git clone https://github.com/pagbuz/bilhetagem-core.git  
+cd bilhetagem-core  
+docker-compose -f docker-compose.dev.yml up --build  
