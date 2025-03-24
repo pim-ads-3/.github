@@ -42,7 +42,7 @@ Fundada em 2020, a **PagBuzz** é uma *deep tech* especializada em **sistemas de
 
 ---
 
-##📞 Contato e Carreira
+## **📞 Contato e Carreira**
 -**Comercial**: vendas@pagbuz.com | +55 (11) 4002-8922
 
 -**Imprensa**: comunicacao@pagbuz.com
