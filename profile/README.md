@@ -1,9 +1,7 @@
 # **PagBuz Solutions**  
 **Sistema Inteligente de Gestão de Suporte Técnico e Atendimento ao Cliente**  
 
-![PagBuz Banner](https://via.placeholder.com/1200x400?text=PagBuz+AI+Powered+Support+System)  
-
----
+![bannerPagBuzz](https://github.com/user-attachments/assets/a9f28d4d-b727-4db9-a102-d4155cf0579c)
 
 ## **Visão Geral**  
 A **PagBuz Solutions** é uma empresa líder em software de gestão de suporte técnico, combinando automação avançada, inteligência artificial e integração multicanal para otimizar operações de helpdesk e customer success.  
