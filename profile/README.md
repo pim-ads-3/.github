@@ -37,3 +37,8 @@ Nossa plataforma **PagBuz ITSM+AI** oferece:
 
 # **BackLog**
 Tenha acesso ao **backlog** no link: https://github.com/pim-ads-3/Pim/blob/main/Backlog.md
+
+---
+
+# **Sprint Backlog**
+Tenha acesso ao **sprint Backlog** no link: https://github.com/orgs/pim-ads-3/projects/3
