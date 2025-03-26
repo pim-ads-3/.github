@@ -54,5 +54,13 @@ Fundada em 2020, a **PagBuzz** é uma *deep tech* especializada em **sistemas de
 ## © 2024 PagBuz Solutions. Sob licença Apache 2.0.
 Consulte LICENSE para detalhes jurídicos.
 
+---
+
+## **Acompanhe todo o desenvolvimento até chegar no produto final**
+
+## **Sprint Backlog**
+
+**Link aqui**
+
 
 
