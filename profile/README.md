@@ -60,9 +60,10 @@ Consulte LICENSE para detalhes jurídicos.
 
 **[Link aqui](https://github.com/pim-ads-3/Pim).**
 
-## **Sprint Backlog**
+## **Backlog**
 
-**[Link aqui](https://github.com/pim-ads-3/Pim/blob/main/Backlog.md)**
+**BackLog: [Link aqui](https://github.com/pim-ads-3/Pim/blob/main/Backlog.md)**
+**Sprint BackLog: [Link aqui](https://github.com/orgs/pim-ads-3/projects/3)**
 
 ## **Reuniões**
 
