@@ -64,5 +64,13 @@ Consulte LICENSE para detalhes jurídicos.
 
 **[Link aqui](https://github.com/pim-ads-3/Pim/blob/main/Backlog.md)**
 
+## **Reuniões**
+
+**[Link aqui](https://github.com/pim-ads-3/Pim/blob/main/meeting.md)**
+
+## **Diagramas
+
+**Diagrama casos de uso: [Link aqui](https://github.com/pim-ads-3/Pim/blob/main/Diagrama_CasosdeUso.png)**
+
 
 
