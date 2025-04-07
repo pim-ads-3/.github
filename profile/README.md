@@ -58,6 +58,8 @@ Consulte LICENSE para detalhes jurídicos.
 
 ## **Acompanhe todo o desenvolvimento até chegar no produto final**
 
+**[Link aqui] (https://github.com/pim-ads-3/Pim).**
+
 ## **Sprint Backlog**
 
 **[Link aqui](https://github.com/pim-ads-3/Pim/blob/main/Backlog.md)**
