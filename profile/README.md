@@ -52,15 +52,7 @@ Fundada em 2020, a **PagBuzz** é uma *deep tech* especializada em **sistemas de
 ---
 
 ## **Acompanhe nosso projeto PAGBUZZ** 
-![bannerPagBuzz](https://github.com/user-attachments/assets/35d68fa0-15ae-4e50-96c3-c222fa8ba572)
 
-**[Link aqui](https://github.com/pim-ads-3/Pim).**
-
----
-
-
-## © 2024 Infinity Ware Solutions. Sob licença Apache 2.0.
-Consulte LICENSE para detalhes jurídicos.
 
 
 
