@@ -53,6 +53,15 @@ Fundada em 2020, a **PagBuzz** é uma *deep tech* especializada em **sistemas de
 
 ## **Acompanhe nosso projeto PAGBUZZ** 
 
+-**Backlog**: https://github.com/pim-ads-3/Pim/blob/main/Backlog.md
+-**Diagrama de use cases**: https://github.com/pim-ads-3/Pim/blob/main/Diagrama_CasosdeUso.png
+-**Diagrama de classes**: https://github.com/pim-ads-3/Pim/blob/main/Diagrama_Classes.png
+-**Reuniões**: https://github.com/pim-ads-3/Pim/blob/main/meeting.md
+
+
+
+
+
 
 
 
