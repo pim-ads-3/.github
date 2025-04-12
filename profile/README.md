@@ -51,27 +51,17 @@ Fundada em 2020, a **PagBuzz** é uma *deep tech* especializada em **sistemas de
 
 ---
 
-## © 2024 PagBuz Solutions. Sob licença Apache 2.0.
-Consulte LICENSE para detalhes jurídicos.
-
----
-
-## **Acompanhe todo o desenvolvimento até chegar no produto final**
+## **Acompanhe nosso projeto PAGBUZZ** 
+![bannerPagBuzz](https://github.com/user-attachments/assets/35d68fa0-15ae-4e50-96c3-c222fa8ba572)
 
 **[Link aqui](https://github.com/pim-ads-3/Pim).**
 
-## **Backlog**
+---
 
-**BackLog: [Link aqui](https://github.com/pim-ads-3/Pim/blob/main/Backlog.md)**
-**Sprint BackLog: [Link aqui](https://github.com/orgs/pim-ads-3/projects/3)**
 
-## **Reuniões**
+## © 2024 Infinity Ware Solutions. Sob licença Apache 2.0.
+Consulte LICENSE para detalhes jurídicos.
 
-**[Link aqui](https://github.com/pim-ads-3/Pim/blob/main/meeting.md)**
-
-## **Diagramas**
-
-**Diagrama casos de uso: [Link aqui](https://github.com/pim-ads-3/Pim/blob/main/Diagrama_CasosdeUso.png)**
 
 
 
